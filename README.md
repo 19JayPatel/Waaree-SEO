@@ -19,6 +19,28 @@
 
 <br/>
 
+---
+
+## 🌐 Live Website
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Visit-Live%20Website-success?style=for-the-badge&logo=googlechrome&logoColor=white)](https://19jaypatel.github.io/Waaree-SEO/)
+
+</div>
+
+### 🔗 Website URL
+
+```text
+https://19JayPatel.github.io/Waaree-SEO/
+```
+
+> Hosted using GitHub Pages.
+
+---
+
+<br/>
+
 [📖 Overview](#-project-overview) • [✨ Features](#-features) • [🛠️ Tech Stack](#%EF%B8%8F-tech-stack) • [📂 Pages](#-website-pages) • [📁 Structure](#-folder-structure) • [🚀 Installation](#-installation-guide)
 
 </div>
