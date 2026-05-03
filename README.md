@@ -345,30 +345,6 @@ Responsive support includes:
 
 <div align="center">
 
-### 🏠 Home Page
-
-<img src="screenshots/home.png" width="700"/>
-
----
-
-### ⚙️ Services Page
-
-<img src="screenshots/services.png" width="700"/>
-
----
-
-### 🔋 Products Page
-
-<img src="screenshots/products.png" width="700"/>
-
----
-
-### 📞 Contact Page
-
-<img src="screenshots/contact.png" width="700"/>
-
-</div>
-
 ---
 
 ## 🗺️ Future Improvements
