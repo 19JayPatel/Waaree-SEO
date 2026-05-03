@@ -32,10 +32,8 @@
 ### 🔗 Website URL
 
 ```text
-https://19JayPatel.github.io/Waaree-SEO/
+https://19jaypatel.github.io/Waaree-SEO/
 ```
-
-> Hosted using GitHub Pages.
 
 ---
 
