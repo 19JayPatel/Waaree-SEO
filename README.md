@@ -1,5 +1,3 @@
-# ☀️ Waaree Energies SEO Website
-
 <div align="center">
 
 <img src="assets/images/favicon.png" alt="Waaree Logo" width="120"/>
@@ -317,14 +315,6 @@ Open `index.html` inside any browser.
 
 ---
 
-#### Option 3 — Node.js Static Server
-
-```bash
-npx serve .
-```
-
----
-
 ## 📱 Responsive Design
 
 Website is optimized for:
@@ -338,12 +328,6 @@ Responsive support includes:
 * Bootstrap Grid
 * CSS Media Queries
 * Flexible Layout Components
-
----
-
-## 📸 Screenshots
-
-<div align="center">
 
 ---
 
